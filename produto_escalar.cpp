@@ -7,7 +7,7 @@ int main() {
     int produto = 0;
 
     for (int i = 0; i < 3; i++) {
-        produto += A[i] + B[i];
+        produto += A[i] * B[i];
 }
 
 cout << "Produto escalar: " << produto << endl;
