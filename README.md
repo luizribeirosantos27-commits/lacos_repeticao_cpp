@@ -2,7 +2,7 @@
 
 **Neste repositório, está presente alguns exercício feitos em aula, que envolvem o conceito de:**
 
-*Variáveis;
+* Variáveis;
 *Tipos de variáveis;
 *Apresentação de informação no terminal;
 *Incremento;
