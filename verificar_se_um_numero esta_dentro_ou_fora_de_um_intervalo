@@ -1,0 +1,19 @@
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int numero;
+
+    cout << "Digite um numero: ";
+    cin >> numero;
+
+    if (numero >= 10 && numero <= 20) {
+        cout << "O numero esta dentro do intervalo [10, 20]." << endl;
+    } else {
+        cout << "O numero esta fora do intervalo." << endl;
+    }
+
+    return 0;
+}
+
